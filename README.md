@@ -8,8 +8,8 @@ This tool estimates and displays carbon emissions (kg CO₂e) across multiple li
 
 ##  Live Demo
 
-🔗 [Click here to try the app](https://your-streamlit-app-link.com)  
-*(Replace with your actual deployed Streamlit link)*
+🔗 https://lca-viz-gst8ik6qphguf2i3zgtpvo.streamlit.app/  
+
 
 ---
 
