@@ -1,0 +1,13 @@
+Component,Stage,Emission Factor (kg CO2e)
+FAHU,Material Extraction,300
+FAHU,Manufacturing,650
+FAHU,Transport,35
+FAHU,Installation,60
+FAHU,Operation,1800
+FAHU,End of Life,120
+GI Duct,Material Extraction,150
+GI Duct,Manufacturing,200
+GI Duct,Transport,20
+GI Duct,Installation,10
+GI Duct,Operation,0
+GI Duct,End of Life,30
